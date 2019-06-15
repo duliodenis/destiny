@@ -53,7 +53,7 @@ class StoryBrain {
 
 // Step 12 - Create a method called getChoice2() that returns the text for the first choice2 from _storyData.
 
-  Sting getChoice2() {
+  String getChoice2() {
     return _storyData.first.choice2;
   }
 }

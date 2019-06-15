@@ -4,6 +4,7 @@
     <list default="true" id="1937d6fa-79d9-496f-a079-0f20df4ee0c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/story_brain.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="63" column="37" lean-forward="true" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -34,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/story_brain.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="269">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -52,8 +53,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/story.dart" />
-        <option value="$PROJECT_DIR$/lib/story_brain.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/story_brain.dart" />
       </list>
     </option>
   </component>
@@ -172,6 +173,16 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="63" column="37" lean-forward="true" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/story.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -181,18 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/story_brain.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="269">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
         </state>
       </provider>
     </entry>
