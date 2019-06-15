@@ -3,7 +3,7 @@ An iOS and Android choose your own adventure app.
 
 Written in Flutter 1.5 / Dart 2.3.
 
-![](art/screenshot/destiny-03.png?raw=true) 
+![](art/screenshot/destiny-04.png?raw=true) 
 
 ### Licensing
 Destiny is licensed under [the MIT License](LICENSE).
