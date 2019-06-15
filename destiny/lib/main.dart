@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'story_brain.dart';
 
-// Step 15 - Run the app and see if you can see the screen update with the first story. Delete this TODO if it looks as you expected.
+// Step 15 - Run the app and see if you can see the screen update with the first story.
 
 void main() => runApp(Destini());
 
@@ -53,8 +53,9 @@ class _StoryPageState extends State<StoryPage> {
                 flex: 2,
                 child: FlatButton(
                   onPressed: () {
-                    //Choice 1 made by user.
-                    //TODO: Step 18 - Call the nextStory() method from storyBrain and pass the number 1 as the choice made by the user.
+                    // Choice 1 made by user.
+                    // Step 18 - Call the nextStory() method from storyBrain and pass the number 1 as the choice made by the user.
+                    storyBrain.nextStory(1);
                   },
                   color: Colors.red,
                   child: Text(
