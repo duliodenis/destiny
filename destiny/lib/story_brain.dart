@@ -57,7 +57,7 @@ class StoryBrain {
     return _storyData[_storyNumber].choice2;
   }
 
-//TODO: Step 25 - Change the storyNumber property into a private property so that only story_brain.dart has access to it. You can do this by right clicking on the name (storyNumber) and selecting Refactor -> Rename to make the change across all the places where it's used.
+// Step 25 - Change the storyNumber property into a private property so that only story_brain.dart has access to it. You can do this by right clicking on the name (storyNumber) and selecting Refactor -> Rename to make the change across all the places where it's used.
 
 // Step 16 - Create a property called storyNumber which starts with a value of 0. This will be used to track which story the user is currently viewing.
   int _storyNumber = 0;
