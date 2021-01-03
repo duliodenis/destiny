@@ -33,14 +33,20 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="80" id="pkd-iW-C7C"/>
                                         </constraints>
-                                        <state key="normal" title="Button" image="choice1Background"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                        <state key="normal" title="Button1" backgroundImage="choice1Background">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </state>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lFU-u4-lMb">
                                         <rect key="frame" x="10" y="738" width="394" height="80"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="80" id="Z61-il-qr6"/>
                                         </constraints>
-                                        <state key="normal" title="Button" image="choice2Background"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                        <state key="normal" title="Button2" backgroundImage="choice2Background">
+                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </state>
                                     </button>
                                 </subviews>
                                 <constraints>
