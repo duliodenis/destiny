@@ -37,6 +37,9 @@
                                         <state key="normal" title="Button1" backgroundImage="choice1Background">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="choiceMade:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CuV-Tj-flR"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lFU-u4-lMb">
                                         <rect key="frame" x="10" y="738" width="394" height="80"/>
@@ -47,6 +50,9 @@
                                         <state key="normal" title="Button2" backgroundImage="choice2Background">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="choiceMade:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SH2-wV-kcw"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <constraints>
